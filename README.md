@@ -1,2 +1,2 @@
 # login.feature
-Login na plataforma Ebacshop
+Configurar produtos Ebacshop - exercício usando o Visual Studio Code
